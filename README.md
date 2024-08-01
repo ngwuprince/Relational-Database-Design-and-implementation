@@ -9,13 +9,12 @@ Inefficient operations and limited insights hindering franchise expansion.
 
 **Masterblend:**
 
-Extraction and Identification: I meticulously combed through each data source, unearthing essential entities and their defining attributes. Imagine beans transformed into perfectly roasted data elements!
-Relationship Roadmap: Using the pgAdmin ERD Tool, I mapped out the connections between entities, crafting a visual blueprint – the coffee shop's very own data DNA.
-Normalization Nirvana: I resolved data redundancy and inconsistencies, streamlining tables into lean, efficient units – ensuring data purity for precise insights.
-Key Unlocking: Primary and foreign keys became the gates to data relationships, granting access and safeguarding integrity.
-SQL Alchemy: From the ERD Tool's crucible, SQL scripts emerged, shaping the database objects themselves. Lines of code blossoming into the robust infrastructure of the data haven.
-Views and Beyond: I carved custom data perspectives: views for quick glances and materialized views for deeper analysis. Think espresso shots and pour-overs of information!
-Multi-Database Mastery: MY skills flourished across platforms. Data flowed seamlessly into PostgreSQL, IBM Db2, and MySQL databases, creating a federated data kingdom.
+- Extraction and Identification: I meticulously combed through each data source, unearthing essential entities and their defining attributes. Imagine beans transformed into perfectly roasted data elements!
+- Relationship Roadmap: Using the pgAdmin ERD Tool, I mapped out the connections between entities, crafting a visual blueprint – the coffee shop's very own data DNA.
+- Normalization Nirvana: I resolved data redundancy and inconsistencies, streamlining tables into lean, efficient units – ensuring data purity for precise insights.
+- Key Unlocking: Primary and foreign keys became the gates to data relationships, granting access and safeguarding integrity.
+- SQL Queries: From the ERD, SQL scripts emerged, shaping the database objects themselves. Lines of code blossoming into the robust infrastructure of the data haven.
+- Views and Beyond: I carved custom data perspectives: views for quick glances and materialized views for deeper analysis. Think espresso shots and pour-overs of information!
 
 **The Sweet Result:**
 
