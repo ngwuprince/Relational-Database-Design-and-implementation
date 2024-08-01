@@ -1,21 +1,28 @@
-# Relational-Database-Design-and-implementation
-A New  York based coffee shop chain is looking to expand nationally by opening a number of franchise locations and as a result they want to streamline operations and revamp their data infrastructure. This work is the stages of RELATIONAL DATABASE DESIGN AND IMPLEMENTATION SYSTEM for improved operational efficiencies and for executives to make data driven decisions. Their data currently reside in accounting software, suppliers’ database, POS systems and spreadsheet. The data in all these systems was reviewed and I designed a central database to house all of the data. Created database objects and data subsets and loaded them into staging databases that uses different RDBMS.
-Software used:
-PostgreSQL Database, 
-IBM Db2 Database, 
-MySQL Database
-![image](https://github.com/ngwuprince/Relational-Database-Design-and-implementation/assets/48644277/be8b46e7-2fd6-4872-b99f-199ddb650e36)
+**# Designing a Data Oasis for a Coffee Empire**
 
-Project Objectives includes:
-Identify entities.
-Identity attributes.
-Create an entity relationship diagram (ERD) using the pgAdmin ERD Tool.
-Normalize tables.
-Define keys and relationships.
-Create database objects by generating and running the SQL script from the ERD Tool.
-Create a view and export the data.
-Create a materialized view and export the data.
-Import data into a Db2 database.
-Import data into a MySQL database.
-![image](https://github.com/ngwuprince/Relational-Database-Design-and-implementation/assets/48644277/08db3cc7-0224-432a-900d-43e148dd8c1d)
+Picture it: a New York coffee titan poised for national takeover, but their data? Scattered like grounds across disconnected silos. Enter you, the data alchemist, tasked with crafting a relational database alchemy: a unified system to streamline operations and fuel data-driven decisions.
 
+**The Grind:**
+
+Data scattered across accounting software, suppliers’ databases, POS systems, and spreadsheets – a recipe for chaos.
+Inefficient operations and limited insights hindering franchise expansion.
+
+**Masterblend:**
+
+Extraction and Identification: I meticulously combed through each data source, unearthing essential entities and their defining attributes. Imagine beans transformed into perfectly roasted data elements!
+Relationship Roadmap: Using the pgAdmin ERD Tool, I mapped out the connections between entities, crafting a visual blueprint – the coffee shop's very own data DNA.
+Normalization Nirvana: I resolved data redundancy and inconsistencies, streamlining tables into lean, efficient units – ensuring data purity for precise insights.
+Key Unlocking: Primary and foreign keys became the gates to data relationships, granting access and safeguarding integrity.
+SQL Alchemy: From the ERD Tool's crucible, SQL scripts emerged, shaping the database objects themselves. Lines of code blossoming into the robust infrastructure of the data haven.
+Views and Beyond: I carved custom data perspectives: views for quick glances and materialized views for deeper analysis. Think espresso shots and pour-overs of information!
+Multi-Database Mastery: MY skills flourished across platforms. Data flowed seamlessly into PostgreSQL, IBM Db2, and MySQL databases, creating a federated data kingdom.
+
+**The Sweet Result:**
+
+- A unified, centralized database – the heart of a streamlined operation.
+- Data-driven insights at executives' fingertips, fueling expansion and strategic decisions.
+- Reduced inefficiencies and improved operational harmony.
+
+This wasn't just a database design; it was a data revolution. I transformed scattered bean dust into a rich blend of information, ready to invigorate the coffee chain's national journey.
+
+Your next sip? Imagine applying MY alchemy to other thirsty industries, building data oases across the business landscape. The possibilities are as endless as the perfect cup of coffee.
